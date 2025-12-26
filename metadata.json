@@ -1,0 +1,5 @@
+{
+  "name": "RedTeam Arena: Adversarial Agent Lab",
+  "description": "A sophisticated red-teaming environment where an Adversarial AI Agent attempts to compromise a Guardian Agent using advanced prompt injection and jailbreaking techniques to test LLM robustness.",
+  "requestFramePermissions": []
+}
